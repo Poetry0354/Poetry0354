@@ -1,6 +1,6 @@
 <h1 align="center">
 Hi, Samuel!
-  <img src="https://photos.app.goo.gl/4NU4gXxTcQZRhUcK7" width="30"></h1>
+  <img src="https://i.pinimg.com/564x/40/99/3f/40993f8bba1d6f79ef50c0d51abe140e.jpg" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
  <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
