@@ -7,24 +7,24 @@ Hi, Samuel!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Student+MinTic+Sena;FrontEnd+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
-I-am-vishalmaurya@github
+I-am-Poetry0354.@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
+💻 I am a self-taught Frontend developer and a learning enthusiast. 
+📚 I have Certificates in Database, basic two level English, introduction to Python, Javascript with Html and Css.
+📝 I have a great interest in technologies, web development, artificial intelligence and web application development.
+🔭 I work in deep learning and machine learning.
+🌱 Learning about Frameworks, agile methodologies, version control, Web design and self-learning techniques.
 🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🚩 Interested in the development of Web applications and Web Pages..
+💖 In a love/hate relationship with algorithms.
+🎵 I love lofi, reading, writing, playing basketball and crafting.
 ```
 <hr>
 
@@ -115,17 +115,17 @@ I-am-vishalmaurya@github
 
 If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.linkedin.com/in/samuel-felipe-trujillo-espinosa-3b0361274/">LinkedIn</a> to deploy your project on the web.
 
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## It's all dark, isn't it, just keep going...?
 
 **<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+<strong>“Nothing is lost if you have the courage to proclaim that all is lost and you have to start over.”</strong>
+– Julio Cortazar-
 
   </td>
   </tr>
@@ -133,7 +133,7 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 
 ------
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
+
 
 
 
