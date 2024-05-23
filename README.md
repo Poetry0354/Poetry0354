@@ -14,7 +14,7 @@ Hi, Samuel!
 <hr>
 
 ```
-I-am-Poetry0354.@github
+I-am-Poetry0354.
 -------------------------
 💻 I am a self-taught Frontend developer and a learning enthusiast. 
 📚 I have Certificates in Database, basic two level English, introduction to Python, Javascript with Html and Css.
