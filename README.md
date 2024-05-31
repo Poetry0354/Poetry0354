@@ -56,7 +56,7 @@ I-am-Poetry0354.
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Project IDX" src="https://img.shields.io/badge/Project%20IXD?style=plastic&color=white"></a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Project%20IXD?style=plastic&color=white">
 </p>
 
 ### 👨🏽‍💻 Workspace
