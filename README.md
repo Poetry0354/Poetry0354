@@ -5,30 +5,40 @@
 
 ```javascript
 const samuel = {
-  pronouns: "he" | "him",
+  // Pronombres de Samuel. Se asume que se confirma que son "he" y "him".
+  pronouns: "he/him",
 
-  code: [
-    "JavaScript",
-    "HTML",
-    "CSS",
-    "Java",
-    "Php",
-    "Dart",
-    "SQL"
-  ],
-tools: [
-    "Flutter",
-    "ASTRO",
-    "Node.js",
-    "npm",
-    "brew"
-  ],
-techCommunities: {
-    member: "UNAD (Universidad nacional abierta y a distancia)",
-    contributor: "Talento tech (programa de bootcamps)"
-  },
-samuel.challenge = "Actualmente enfocado en aprender Python y desarrollando una landing page hotelera como Diseñador y Dev en el programa Talento tech. También está ayudando en un grupo de estudio de Java en su ciudad y busca desarrollar excelentes habilidades técnicas.";
+  // Lenguajes de programación que Samuel conoce
+  code: [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Java",
+    "Php",
+    "Dart",
+    "SQL"
+  ],
 
+  // Herramientas, frameworks y bibliotecas que Samuel utiliza
+  tools: [
+    "Flutter",
+    "ASTRO",
+    "Node.js",
+    "npm",
+    "brew"
+  ],
+
+  // Participación de Samuel en comunidades tecnológicas y proyectos
+  techCommunities: {
+    member: "UNAD (Universidad nacional abierta y a distancia)", // Universidad como forma de comunidad
+    contributor: "Talento tech (programa de bootcamps)" // Bootcamp como proyecto
+  },
+
+  // Desafío actual, meta de aprendizaje o proyecto personal
+  challenge: "Actualmente enfocado en aprender Python y desarrollando una landing page hotelera como Diseñador y Dev en el programa Talento tech. También está ayudando en un grupo de estudio de Java en su ciudad y busca desarrollar excelentes habilidades técnicas."
+};
+
+// Puedes imprimirlo para verificar (opcional)
 console.log(samuel);
 ```
 
