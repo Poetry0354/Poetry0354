@@ -5,10 +5,10 @@
 
 ```javascript
 const samuel = {
-  // Pronombres de Samuel. Se asume que se confirma que son "he" y "him".
+  
   pronouns: "he/him",
 
-  // Lenguajes de programación que Samuel conoce
+  // Lenguajes de programación 
   code: [
     "JavaScript",
     "HTML",
@@ -19,7 +19,7 @@ const samuel = {
     "SQL"
   ],
 
-  // Herramientas, frameworks y bibliotecas que Samuel utiliza
+  // Herramientas, frameworks y bibliotecas
   tools: [
     "Flutter",
     "ASTRO",
@@ -28,7 +28,7 @@ const samuel = {
     "brew"
   ],
 
-  // Participación de Samuel en comunidades tecnológicas y proyectos
+  // Participación en comunidades tecnológicas y proyectos
   techCommunities: {
     member: "UNAD (Universidad nacional abierta y a distancia)", // Universidad como forma de comunidad
     contributor: "Talento tech (programa de bootcamps)" // Bootcamp como proyecto
