@@ -37,10 +37,10 @@ const samuel = {
   },
 
   // Desafío actual, meta de aprendizaje o proyecto personal
-  challenge: "Actualmente enfocado en aprender Python y desarrollando una landing page hotelera como Diseñador y Dev en el programa Talento tech. También está ayudando en un grupo de estudio de Java en su ciudad y busca desarrollar excelentes habilidades técnicas."
+  challenge: "Actualmente enfocado en aprender Python y desarrollando una landing page hotelera como Diseñador y Dev en el programa Talento tech. También estoy ayudando en un grupo de estudio de Java en mi ciudad y buscando desarrollar excelentes habilidades técnicas."
 };
 
-// Puedes imprimirlo para verificar (opcional)
+
 console.log(samuel);
 ```
 
